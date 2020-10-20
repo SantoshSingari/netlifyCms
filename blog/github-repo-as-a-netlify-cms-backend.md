@@ -1,5 +1,5 @@
 ---
-path: Add Your GitHub Repo as a Netlify CMS Backend
+path: /blog
 date: 2020-10-20T10:26:43.754Z
 title: GitHub Repo as a Netlify CMS Backend
 ---
